@@ -1,0 +1,69 @@
+http://192.168.29.161/smartcityDashboard/admin       main URL
+username:-admin@gmail.com
+password:-justdoit
+
+VIDEO MANAGEMENT SYSTEM(VMS)
+--------------------------------
+URL http://192.168.29.161/vms/backend/user/login
+username:-admin
+password:-eroute_rupay
+
+Dashboard/
+.............
+TOTAL NVR/CAMERA GROUP/CAMERA USERS shoing in Dashboard
+Camera On Map/total camera on/off/connected showing in dashboard |Details of Camera view in dashboard
+When i click the perticular camera but here not working any single camera's
+
+Analytics
+.....................................
+1.Object Counting
+Result not showing for camera's >>select NVR >there are four camera's view in squere box. its ok but camera result not showing.
+2.Person Counting
+Available video showing then counting person's from the video but here one issue getting like 4 person walking in video but counnting is 6.how?
+its wrong finding in live server. but here video not available
+3.Face Counting
+there are multiple video added from the server. means static video seen.but here not seen.
+
+4.Vehical Detection
+multiple video added from the server. means static video seen.but here not seen.
+  
+5.Suspect Detection
+multiple video added from the server. means static video seen.but here not seen.
+
+CameraManagement
+...........................
+List for the cameraname,location,latitude,longtitude,address showing in list but add option showing in only camera name,channel id, and NVR name.
+Please add(show) NVR name in listing.
+
+NVR Management
+....................
+NVR Add,edit,delete  and List the NVR working properly
+
+Camera Group Management 
+...........................
+add funtionality working,edit working but delete not working
+
+Setting
+........................
+working Properly
+
+User
+.......................
+Add/Edit/Delete   functionality working.
+
+
+
+
+
+
+
+
+
+INTEGRATED COMMAND AND CONTROL SYSYTEM
+
+VIDEO ANALYTICS
+ITMS
+REPORTS
+INCIDENTS
+FLEET
+DYNAMIC-ANALYTICS

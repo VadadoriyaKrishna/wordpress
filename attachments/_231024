@@ -1,0 +1,112 @@
+DKIM-Signature: v=3D1; a=3Drsa-sha256; c=3Drelaxed/relaxed;
+        d=3Dgmail.com; s=3D20230601; t=3D1729658478; x=3D1730263278; darn=
+
+=3Demail.com;
+        h=3Dmime-version:message-id:subject:from:to:date:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=3DCwjV7cllbBZAswV7EMov+2QbuEJLAxnjGn5jQMRul/I=3D;
+        b=3DK2H1tnMCjwWvDs4VBGWLYY+p/0ex6AscL1XU0ciy0mHCNSIbTo7XX+WgHzGEJkx=
+6N9
+         uL4R47ufLbE8xLopbsMUP5sVzNxN0x3k4ppZyqb5W0bWLRprDvqjF+ftaFgJCuvM2e=
+Gp
+         Qh5eKLoKxMUDvJnp0fXR0YSPhbCSOLLXaYjNXglOvq21Er2T+Vba/aVbpj4eD/m20W=
+8p
+         zpTEeaBeKeOTCyJMJur6lFMuJBQadq64aG6f47I6m5IHNVyVfCmvyBt2/cPGCEUsNf=
+ya
+         g2HQnHZEVg13zsopV4Qm3I8NVzuxLAWIB3z/cOANg8sXUQHabDStLQPoxg03IHLT7/=
+6L
+         grWA=3D=3D
+X-Google-DKIM-Signature: v=3D1; a=3Drsa-sha256; c=3Drelaxed/relaxed;
+        d=3D1e100.net; s=3D20230601; t=3D1729658478; x=3D1730263278;
+        h=3Dmime-version:message-id:subject:from:to:date:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=3DCwjV7cllbBZAswV7EMov+2QbuEJLAxnjGn5jQMRul/I=3D;
+        b=3DkLNrgSRYkoSRyUvst/sX7oPWHmFpiW0X/danlyIG/y74qp+w55pGu/Wx17mATOo=
+Qfy
+         KnLanFIswxTP4fHpz0n1Gvl+7Ft7svCIUbMxX138U5TMzbJZRPbbxMcklYGbf1BPb7=
+5p
+         6mjfvoKA34QbNUYNKpbeVKMGqv3/VGhPpTMocv8aQ1bIFGiYqIrFoVR9FY9qKg4WOI=
+h4
+         fgNYk8HjGExTW//nqgDybpy4hEDlHATM/dvXAik4GB5oDAbxTenpGn1m3fOEffd4Je=
+f9
+         f7veDabXjIrmw7AGgkCTTZARsp7jFeAWpHQXkwWg5tLpT5Et+3w/LPydRQNXl3P+6d=
+bH
+         H2Ag=3D=3D
+X-Gm-Message-State: AOJu0Yz9as4jzBXsm8Kakzpii942hG9PV9kEriM5Qp1Aw0FY9/XarUZ=
+N
+	OHJv3A9vif51CZj+iOjXy7EJXQ0qUxuz0/enbnMJPDYD7evVKsMvXo0xaw=3D=3D
+X-Google-Smtp-Source: AGHT+IEjJU5f111eCUaW6bozR/XVPTYgGmutbh06jNbGASf+RLrb+=
+XVsSiGLXbjJ48s9aqAWWRkwtQ=3D=3D
+X-Received: by 2002:a05:6a00:92a9:b0:71e:4fe4:354d with SMTP id d2e1a72fcca=
+58-72030b6196dmr1844946b3a.18.1729658478154;
+        Tue, 22 Oct 2024 21:41:18 -0700 (PDT)
+Return-Path: <kishuvadadoriya@gmail.com>
+Received: from localhost ([2405:201:2002:20b3:2c13:6e23:d9df:ad74])
+        by smtp.gmail.com with ESMTPSA id d2e1a72fcca58-71ec13d7673sm566996=
+8b3a.99.2024.10.22.21.41.16
+        (version=3DTLS1_3 cipher=3DTLS_AES_256_GCM_SHA384 bits=3D256/256);
+        Tue, 22 Oct 2024 21:41:17 -0700 (PDT)
+Date: Wed, 23 Oct 2024 10:11:13 +0530
+To: user8@email.com, krishna@fluvina.com
+From: Fluvina Insurance Agency <kishuvadadoriya@gmail.com>
+Subject: Thank You for Your Claim Request - Important Details Inside
+Message-ID: <EmPEowjcX8Eqh1K0iEpu50EdhrKlT1gwWRCjs072Tg@localhost>
+X-Mailer: PHPMailer 6.2.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=3Diso-8859-1
+
+<!DOCTYPE html>
+<html lang=3D"en">
+<head>
+    <meta charset=3D"UTF-8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Email Template</title>
+</head>
+<body style=3D"font-family: Arial, sans-serif; margin: 0; padding: 0; backg=
+round-color: #F6F6F6;">
+    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max-=
+width: 600px; width: 100%; margin: 0 auto; background-color: #FFFFFF; borde=
+r-collapse: collapse;">
+        <tr>
+            <td class=3D"header" style=3D"background-color: #57a7d9; color:=
+ white; text-align: center; padding: 40px 20px;">
+                <h1 style=3D"margin: 0;">Fluvina Insurance Agency</h1>
+                <p style=3D"margin: 0;"></p>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"content" style=3D"padding: 30px; text-align: left;=
+ color: #333333; font-size: 16px; line-height: 1.5;">
+                <div id=3D"email-body-content"><p>Dear [Customer's Name],</=
+p><p>Thank you for submitting your claim request for your health policy. We=
+ appreciate your diligence in providing the necessary information.</p><p>He=
+re are the key details we have received regarding your claim:</p><ul><li><s=
+trong>Broker</strong>:</li><li><strong>Carrier Reference</strong>:</li><li>=
+<strong>Leader</strong>:</li><li><strong>Policy Created Date</strong>:</li>=
+<li><strong>Policy Status</strong>:</li><li><strong>Managing Agent</strong>=
+: 9777</li><li><strong>Special Instructions</strong>:</li></ul><p>Our claim=
+s processing team is reviewing these details and will get back to you short=
+ly. If you have any questions or require further assistance, please feel fr=
+ee to contact us at [Contact Information].</p><p>Thank you for trusting [Yo=
+ur Company Name]. We are committed to providing you with the best service p=
+ossible.</p><p>Best regards,<br>Fluvina Insurance Agency</p></div>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"footer" style=3D"background-color: #57a7d9; color:=
+ white; text-align: center; padding: 30px 20px; font-size: 14px;">
+                <p style=3D"margin: 0;">&copy; 2024 Fluvina Insurance Agenc=
+y. All rights reserved.</p>
+                <p style=3D"margin: 0;">
+                    <a href=3D"#" style=3D"color: #FFFFFF; text-decoration:=
+ underline;">Unsubscribe</a> |=20
+                    <a href=3D"#" style=3D"color: #FFFFFF; text-decoration:=
+ underline;">Privacy Policy</a>
+                </p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
